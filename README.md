@@ -1,5 +1,6 @@
-VOIS_AICTE_Oct2025_Surya_Omar
-📊 Project Title: Airbnb Hotel Booking Analysis
+# VOIS_AICTE_Oct2025_Surya_Omar
+
+# 📊 Project Title: Airbnb Hotel Booking Analysis
 📝 Overview
 
 This project analyzes Airbnb hotel booking data to uncover patterns, trends, and insights about customer behavior. By exploring various features such as booking dates, customer demographics, pricing, and cancellations, the project aims to help hospitality businesses make data-driven decisions.
